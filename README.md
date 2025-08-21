@@ -1,2 +1,2 @@
-# newspages
-respawn's newspages
+# RespawnNews
+respawn's newspages basically...
