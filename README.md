@@ -1,2 +1,2 @@
-# RespawnNews 📄
+# RespawnNews! 📄
 basically respawn's newspages...
